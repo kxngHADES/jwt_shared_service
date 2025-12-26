@@ -1,0 +1,10 @@
+[project]
+name = "jwt-service"
+version = "0.0.1"
+description = "Shared JWT utilities"
+requires-python = ">=3.10"
+dependencies = ["PyJWT"]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
