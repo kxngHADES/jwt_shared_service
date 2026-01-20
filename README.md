@@ -1,3 +1,7 @@
+[![PyPI version](https://badge.fury.io/py/shared-jwt-service.svg)](https://pypi.org/project/shared-jwt-service/)
+[![Python >=3.10](https://img.shields.io/badge/python-3.10%2B-blue)](https://pypi.org/project/shared-jwt-service/)
+
+
 # shared-jwt-service
 
 Small utility package for extracting a user ID from an HTTP Authorization header using PyJWT (HS256).
